@@ -11,7 +11,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 
 <p align="center">
 <a href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gamil%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https:www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Phone-%2B91%209497846156-blue?style=for-the-badge&logo=opsgenie&logoColor=white"> -->
 
 <!-- <img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/> -->
