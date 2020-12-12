@@ -23,7 +23,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <!-- <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> -->
 </p>
 
-## 🧮 Languages & Platforms
+## &#x270d; Languages & Platforms
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
