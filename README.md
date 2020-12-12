@@ -5,7 +5,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 
 <!-- ## About Me -->
 
-    🌱 I’m currently learning Hyperledeger & all about Open Source
+    🌱 I’m currently learning all about Open Source & Blockchain
 
 <h2 align="center">
 📫 How to reach me:
@@ -82,7 +82,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 
 <p  align="center">
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
@@ -102,9 +102,9 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a href="https://github.com/Justinjdaniel">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Justin's GitHub Stats" /></a>
 <a href="https://github.com/Justinjdaniel/library">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=Library&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Justin's GitHub Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=Library&show_icons=true&hide_border=true&line_height=27&count_private=true&theme=dark" alt="Justin's GitHub Stats" /></a>
 <a href="https://github.com/Justinjdaniel/prediagnosis">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=prediagnosis&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Justin's GitHub Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=prediagnosis&hide_border=true&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Justin's GitHub Stats" /></a>
 </p>
 
 <!-- <p align="center">
