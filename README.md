@@ -48,11 +48,11 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
+<br>
+  
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 <br>
 
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -63,6 +63,10 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 <br>
 
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<br>
+
 <img src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
@@ -71,11 +75,14 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <br>
 
+
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
+<br>
+
 <img src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 
 </p>
 
@@ -85,6 +92,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a href="https://gitlab.com/Justinjdaniel/vaccination-logger" target="_blank">
 <img src="https://img.shields.io/badge/GitLab-VaccineLog%20-orange&?style=for-the-badge&logo=GitLab"></a>
 <a href="https://github.com/Justinjdaniel/YIP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yamuni-brightgreen&?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/Justinjdaniel/PreDiagnosis" target="_blank"><img src="https://img.shields.io/badge/GitHub-PreDiagnosis-brightgreen&?style=for-the-badge&logo=GitHub"></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
