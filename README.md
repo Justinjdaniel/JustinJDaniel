@@ -97,7 +97,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 
 <p align="center">
 <a href="https://github.com/Justinjdaniel">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&hide=java,html&theme=react" alt="Justin's GitHub Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&hide=java,html,css&theme=react" alt="Justin's GitHub Stats" /></a>
 <a href="https://github.com/Justinjdaniel">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&line_height=27&count_private=true&theme=react" alt="Justin's GitHub Stats" /></a>
 <a href="https://github.com/Justinjdaniel/library">
