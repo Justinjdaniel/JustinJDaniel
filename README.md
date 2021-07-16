@@ -93,7 +93,9 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a href="https://github.com/Justinjdaniel/PreDiagnosis" target="_blank"><img src="https://img.shields.io/badge/GitHub-PreDiagnosis-brightgreen&?style=for-the-badge&logo=GitHub"></a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="Justinjdaniel" /> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
 
 <p align="center">
 <a href="https://github.com/Justinjdaniel">
