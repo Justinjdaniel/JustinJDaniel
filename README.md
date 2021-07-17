@@ -13,12 +13,14 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gamil%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Phone-%2B91%209497846156-blue?style=for-the-badge&logo=opsgenie&logoColor=white"> -->
-
+  
+<!-- <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> -->
+<!-- <a title="CodePen" alt="CodePenCodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> -->
+
 </p>
 
 ## &#x270d; Languages & Platforms
@@ -48,7 +50,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
-<!-- <br> -->
+<br>
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -61,8 +63,11 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
 <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<br>
+
 <img alt="Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-%23FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
 <br>
 
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
@@ -74,9 +79,10 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <br>
 
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
 <br>
 
