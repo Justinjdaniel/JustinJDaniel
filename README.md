@@ -1,7 +1,6 @@
-![Banner](https://github.com/Justinjdaniel/Archive/blob/master/GitHub%20Header.jpg "Banner")
+![Banner](https://github.com/Justinjdaniel/Archive/blob/master/GitHub%20Header.jpg 'Banner')
 
 ## Hi, folks! 👋
-
 
 My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Developer. I'm from Kerala, currently learning all about Open Source & Blockchain
 
@@ -13,14 +12,12 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gamil%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Phone-%2B91%209497846156-blue?style=for-the-badge&logo=opsgenie&logoColor=white"> -->
-  
-<!-- <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> -->
-<!-- <a title="CodePen" alt="CodePenCodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
+<!-- <a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/17131124/hex" target="_blank"><img alt="Stack Overflow" src ="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> -->
+<!-- <a title="CodePen" alt="CodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> -->
-
 </p>
 
 ## &#x270d; Languages & Platforms
@@ -29,16 +26,14 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width=50 height=50 alt='HTML'/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width='' height=50 alt='CSS' />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width=50 height=50 alt='Nodejs' />
-<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" width=50 height=50 alt='Typescript' />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50 height=50 alt='JavaScript' />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png"  width='' height=50 alt='Solidity'/>
-<!-- <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" width=50 height='' alt='Markdown'/>
+<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/> -->
 </p>
-
-
 
 ## 💻 Frameworks & Others
 
@@ -74,7 +69,7 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <!-- <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<!-- <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> -->
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <br>
 
@@ -85,8 +80,6 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
 <br>
-
-
 
 </p>
 
@@ -99,7 +92,8 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <a href="https://github.com/Justinjdaniel/PreDiagnosis" target="_blank"><img src="https://img.shields.io/badge/GitHub-PreDiagnosis-brightgreen&?style=for-the-badge&logo=GitHub"></a>
 </p>
 
-## &#x1f4c8; GitHub Stats 
+## &#x1f4c8; GitHub Stats
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="Justinjdaniel" /> </p> -->
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
 
@@ -115,19 +109,4 @@ My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Develop
 <!--
 This is how Badge is done
   <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
--->
-
-<!--
-**Justinjdaniel/JustinJDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
