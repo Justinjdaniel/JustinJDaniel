@@ -1,4 +1,4 @@
-![Banner](https://github.com/Justinjdaniel/Archive/blob/master/GitHub%20Header.jpg 'Banner')
+![Banner](https://user-images.githubusercontent.com/62233773/137176356-ed2a39e4-5cc6-48f5-9fc2-6e957ac01646.png 'Banner')
 
 ## Hi, folks! 👋
 
