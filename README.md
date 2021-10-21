@@ -2,7 +2,7 @@
 
 ## Hi, folks! 👋
 
-My name is **Justin J Daniel**. I'm an Ethereum Developer & a Full-Stack Developer. I'm from Kerala, currently learning all about Open Source & Blockchain
+My name is **Justin J Daniel**. I'm an Blockchain Developer & a Full-Stack Developer. I'm from Kerala, currently learning all about Open Source & Blockchain
 
 <h3 align="center">
 📫 Find more about me & feel free to connect with me:
