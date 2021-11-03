@@ -107,7 +107,7 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&hide_border=true&line_height=27&count_private=true&theme=github_dark" alt="Justin's GitHub Stats" /></a>
 <a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&hide=html,css&theme=github_dark" alt="Justin's GitHub Stats" /></a>
 <!-- <a href="https://github.com/Justinjdaniel/prediagnosis">
