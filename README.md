@@ -18,6 +18,7 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 <!-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> -->
 </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="Justinjdaniel" /> </p> -->
 
 ## &#x270d; Languages & Platforms
 
@@ -94,12 +95,21 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="Justinjdaniel" /> </p> -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079722-5bced92f-84fb-4b88-8f71-0ced42e51dde.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJDaniel&theme=github-dark&hide_border=true"/>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079796-056d46b7-616b-4a6e-ba01-dc9cb7b5d3fa.png">
+  </a>
+</p>
+
+<!-- <p align="center"> <a href="https://github.com/..."><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
 
 <p align="left">
-<a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&line_height=27&count_private=true&theme=react" alt="Justin's GitHub Stats" /></a>
-<a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide=html,css&theme=react" alt="Justin's GitHub Stats" /></a>
+<a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&hide_border=true&line_height=27&count_private=true&theme=github_dark" alt="Justin's GitHub Stats" /></a>
+<a href="https://github.com/Justinjdaniel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&hide=html,css&theme=github_dark" alt="Justin's GitHub Stats" /></a>
 <!-- <a href="https://github.com/Justinjdaniel/prediagnosis">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=prediagnosis&hide_border=true&show_icons=true&line_height=27&count_private=true&theme=react" alt="Justin's GitHub Stats" /></a> -->
 </p>
