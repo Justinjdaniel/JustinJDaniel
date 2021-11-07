@@ -81,7 +81,7 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <!-- <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> -->
-<br>
+<!-- <br> -->
   
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
@@ -95,7 +95,7 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
-<br>
+<!-- <br> -->
 
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
