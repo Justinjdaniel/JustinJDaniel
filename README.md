@@ -115,22 +115,22 @@ My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about
 
 </p>
 
-## 🔢 Projects
+<!-- ## 🔢 Projects
 
 <p align="left">
 <a href="https://gitlab.com/Justinjdaniel/vaccination-logger" target="_blank">
 <img src="https://img.shields.io/badge/GitLab-VaccineLog%20-orange&?style=for-the-badge&logo=GitLab"></a>
 <a href="https://github.com/Justinjdaniel/YIP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yamuni-brightgreen&?style=for-the-badge&logo=GitHub"></a>
 <a href="https://github.com/Justinjdaniel/PreDiagnosis" target="_blank"><img src="https://img.shields.io/badge/GitHub-PreDiagnosis-brightgreen&?style=for-the-badge&logo=GitHub"></a>
-</p>
+</p> -->
 
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079722-5bced92f-84fb-4b88-8f71-0ced42e51dde.png">
+<!--     <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079722-5bced92f-84fb-4b88-8f71-0ced42e51dde.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJDaniel&theme=github-dark&hide_border=true"/>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079796-056d46b7-616b-4a6e-ba01-dc9cb7b5d3fa.png">
+<!--     <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079796-056d46b7-616b-4a6e-ba01-dc9cb7b5d3fa.png"> -->
   </a>
 </p>
 
