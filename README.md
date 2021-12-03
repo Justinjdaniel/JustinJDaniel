@@ -10,12 +10,12 @@
 <h2 align="left">
   Hi, folks!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <!--   <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="Justinjdaniel" /> -->
+  <!--   <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
 </h2>
 
 My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about programming, coding, and learning all about Open Source, Blockchain & new things. I'm an avid reader, and I'm always looking for new ways to improve myself.
 
-- 🔭 I’m currently working on Automate Onedrive files update when a master template is changed using Microsoft Graph and Office API 
+- 🔭 I’m currently working on Automate OneDrive files update when a master template is changed using Microsoft Graph and Office API 
 - 🌱 I’m currently learning C# & .NET
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
