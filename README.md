@@ -13,23 +13,24 @@
   <!--   <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
 </h2>
 
-My name is **Justin J Daniel**. I'm a Web Developer Kerala. I'm passionate about programming, coding, and learning all about Open Source, Blockchain & new things. I'm an avid reader, and I'm always looking for new ways to improve myself.
+My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking for new ways to enhance my own and others' lives.
 
-- 🔭 I’m currently working on migrating HLF v1.4 --> v2.0
-- 🌱 I’m currently learning C# & .NET
-<!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on NFTs and ERC-721 tokens.
+- 🌱 I’m currently learning .NET, WASM, service workers, and more.
+- 🤓 I’m looking for help in AWS Devops, Kubernetes, and more.
+- 🤔 I’m thinking to learn more about Machine Learning and Data Science.
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
 <h3 align="center">
-📫 Find more about me & feel free to connect with me:
+📫 Find out more about me and feel free to contact me:
 </h3>
 
 <p align="center">
 <a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gamil%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/17131124/hex" target="_blank"><img alt="Stack Overflow" src ="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<!-- <a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/17131124/hex" target="_blank"><img alt="Stack Overflow" src ="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> -->
 <!-- <a title="CodePen" alt="CodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
 
 </p>
