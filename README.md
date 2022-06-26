@@ -154,3 +154,8 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 This is how Badge is done
   <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
 -->
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![Justinjdaniel snake gif](https://github.com/justinjdaniel/Justinjdaniel/blob/output/github-contribution-grid-snake.svg)
