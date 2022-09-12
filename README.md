@@ -15,7 +15,7 @@
 
 My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking for new ways to enhance my own and others' lives.
 
-- 🔭 I’m currently working on NFTs and ERC-721 tokens.
+- 🔭 I’m currently exploring and working on NFTs and ERC-721 tokens.
 - 🌱 I’m currently learning .NET, WASM, service workers, and more.
 - 🤓 I’m looking for help in AWS Devops, Kubernetes, and more.
 - 🤔 I’m thinking to learn more about Machine Learning and Data Science.
