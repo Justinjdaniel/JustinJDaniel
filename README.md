@@ -28,7 +28,7 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 </h3>
 
 <p align="center">
-<a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gamil%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/17131124/hex" target="_blank"><img alt="Stack Overflow" src ="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> -->
 <!-- <a title="CodePen" alt="CodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
