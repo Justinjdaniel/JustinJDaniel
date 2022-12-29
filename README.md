@@ -137,7 +137,7 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 
 <!-- <p align="center"> <a href="https://github.com/..."><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 activity 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
 
 <p align="center">
   <a href="https://github.com/Justinjdaniel">
