@@ -95,6 +95,7 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON Web Tokens-%23000000.svg?&style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
+<img alt="Framer" src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=Framer&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
 <img alt="Lens" src="https://img.shields.io/badge/Lens%20-%233D90CE.svg?&style=for-the-badge&logo=Lens&logoColor=white"/>
