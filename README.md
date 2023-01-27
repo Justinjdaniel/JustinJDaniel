@@ -15,8 +15,8 @@
 
 My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking for new ways to enhance my own and others' lives.
 
-- 🔭 I’m currently exploring and working on NFTs and ERC-721 tokens.
-- 🌱 I’m currently learning .NET, WASM, service workers, and more.
+- 🔭 I’m currently exploring and working on DigitalTwin and AR/VR.
+- 🌱 I’m currently learning .NET, Unity, Virtual world creation, and more.
 - 🤓 I’m looking for help in AWS Devops, Kubernetes, and more.
 - 🤔 I’m thinking to learn more about Machine Learning and Data Science.
 <!-- - 💬 Ask me about ... -->
@@ -38,46 +38,39 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 ## 🛠️ My Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%233C3C3D.svg?&style=for-the-badge&logo=ethereum"/>
+<!-- <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Solidity%20-%233C3C3D.svg?&style=for-the-badge&logo=ethereum"/>
-<!-- <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/62233773/140598106-48d9990f-52a3-4c74-8cec-992db321aad0.png" width=50 height=50 alt='HTML'/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width='' height=50 alt='CSS' />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width=50 height=50 alt='Nodejs' />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" width=50 height=50 alt='Typescript' />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50 height=50 alt='JavaScript' />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png"  width='' height=50 alt='Solidity'/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" width=50 height='' alt='Markdown'/>
-<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/> -->
-<!-- </p> -->
 ###
 
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?&style=for-the-badge&logo=Astro&logoColor=white"/>
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="ExpressJs" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img alt="ExpressJs" src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 <!-- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
 <!-- <br> -->
 
+<img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger%20-%232F3134.svg?&style=for-the-badge&logo=Hyperledger&logoColor=white"/>
+  
+  
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <a href="https://github.com/Justinjdaniel" target="_blank">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img  alt="GitHub Actions" src="https://img.shields.io/badge/github Actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/github Actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
 <a href="https://gitlab.com/Justinjdaniel" target="_blank">
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -99,19 +92,21 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 <!-- <br> -->
 
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
-<!-- <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-%23FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/> -->
-<!-- <br> -->
-
 <img alt="Codepen.io" src="https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="Oculus" src="https://img.shields.io/badge/Oculus%20-%231C1E20.svg?&style=for-the-badge&logo=Oculus&logoColor=white"/>
+<img alt="Lens" src="https://img.shields.io/badge/Lens%20-%233D90CE.svg?&style=for-the-badge&logo=Lens&logoColor=white"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<img alt="AWS S3" src="https://img.shields.io/badge/Amazon s3%20-%23569A31.svg?&style=for-the-badge&logo=amazon s3&logoColor=black" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> -->
 <br>
 
 </p>
