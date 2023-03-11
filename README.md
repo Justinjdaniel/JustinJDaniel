@@ -108,7 +108,7 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&hide_border=true&line_height=27&count_private=true&include_all_commits=true&theme=github_dark" alt="Justin's GitHub Stats" />
   </a>
 <a href="https://github.com/Justinjdaniel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&theme=github_dark&hide=html,css" alt="Justin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&theme=github_dark&hide=html,css,ejs&exclude_repo=learn-AR" alt="Justin's GitHub Stats" />
   </a>
 </p>
 
