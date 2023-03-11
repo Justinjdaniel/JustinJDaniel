@@ -15,8 +15,8 @@
 
 My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking for new ways to enhance my own and others' lives.
 
-- 🔭 I’m currently exploring and working on DigitalTwin and AR/VR.
-- 🌱 I’m currently learning .NET, Unity, Virtual world creation, and more.
+- 🔭 I’m currently exploring and working on Blockchain in Sustainability.
+- 🌱 I’m currently learning R3, D3, and more.
 - 🤓 I’m looking for help in AWS Devops, Kubernetes, and more.
 - 🤔 I’m thinking to learn more about Machine Learning and Data Science.
 <!-- - 💬 Ask me about ... -->
