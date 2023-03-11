@@ -51,92 +51,57 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-###
-
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?&style=for-the-badge&logo=Astro&logoColor=white"/>
+<!-- <img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?&style=for-the-badge&logo=Astro&logoColor=white"/> -->
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="ExpressJs" src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
-<!-- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> -->
-<!-- <br> -->
- 
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<a href="https://github.com/Justinjdaniel" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
+<!-- <a href="https://github.com/Justinjdaniel" target="_blank"> -->
+<!-- <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> -->
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github Actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
-<a href="https://gitlab.com/Justinjdaniel" target="_blank">
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<!-- <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> -->
-<!-- <br> -->
-  
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  
 <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI%20-%23319795.svg?&style=for-the-badge&logo=Chakra UI&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
-<img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<!-- <br> -->
-
+<!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
+<!-- <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> -->
+<!-- <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
 <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger%20-%232F3134.svg?&style=for-the-badge&logo=Hyperledger&logoColor=white"/>
-<img alt="GitHub Pages" src="https://img.shields.io/badge/github pages%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+<!-- <img alt="GitHub Pages" src="https://img.shields.io/badge/github pages%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/> -->
 <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
+<!-- <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/> -->
 <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
-<!-- <br> -->
-
-<img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly%20-%234700A3.svg?&style=for-the-badge&logo=WebAssembly&logoColor=white"/>
+<!-- <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly%20-%234700A3.svg?&style=for-the-badge&logo=WebAssembly&logoColor=white"/> -->
 <img alt="PWA" src="https://img.shields.io/badge/PWA-%235A0FC8.svg?&style=for-the-badge&logo=PWA&logoColor=white"/>
-<img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON Web Tokens-%23000000.svg?&style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
+<!-- <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON Web Tokens-%23000000.svg?&style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/> -->
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
-<img alt="Framer" src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=Framer&logoColor=white"/>
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+<!-- <img alt="Framer" src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=Framer&logoColor=white"/> -->
+<!-- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> -->
+<!-- <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white"/> -->
 <img alt="Lens" src="https://img.shields.io/badge/Lens%20-%233D90CE.svg?&style=for-the-badge&logo=Lens&logoColor=white"/>
-<img alt="Codepen.io" src="https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
+<!-- <img alt="Codepen.io" src="https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/> -->
 <img alt="Unity" src="https://img.shields.io/badge/Unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="Oculus" src="https://img.shields.io/badge/Oculus%20-%231C1E20.svg?&style=for-the-badge&logo=Oculus&logoColor=white"/>
-<img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<!-- <img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/> -->
+<!-- <img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /> -->
+<!-- <img alt="Webpack" src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> -->
 <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon ECS%20-%23FF9900.svg?&style=for-the-badge&logo=Amazon ECS&logoColor=white" />
 <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon s3%20-%23569A31.svg?&style=for-the-badge&logo=amazon s3&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> -->
-<br>
-
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
-
-<!-- ## 🔢 Projects
-
-<p align="left">
-<a href="https://gitlab.com/Justinjdaniel/vaccination-logger" target="_blank">
-<img src="https://img.shields.io/badge/GitLab-VaccineLog%20-orange&?style=for-the-badge&logo=GitLab"></a>
-<a href="https://github.com/Justinjdaniel/YIP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yamuni-brightgreen&?style=for-the-badge&logo=GitHub"></a>
-<a href="https://github.com/Justinjdaniel/PreDiagnosis" target="_blank"><img src="https://img.shields.io/badge/GitHub-PreDiagnosis-brightgreen&?style=for-the-badge&logo=GitHub"></a>
-</p> -->
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <a>
-<!--     <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079722-5bced92f-84fb-4b88-8f71-0ced42e51dde.png"> -->
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079722-5bced92f-84fb-4b88-8f71-0ced42e51dde.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJDaniel&theme=github-dark&hide_border=true"/>
-<!--     <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079796-056d46b7-616b-4a6e-ba01-dc9cb7b5d3fa.png"> -->
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/62233773/140079796-056d46b7-616b-4a6e-ba01-dc9cb7b5d3fa.png">
   </a>
-</p>
-
-<!-- <p align="center"> <a href="https://github.com/..."><img src="https://github-profile-trophy.vercel.app/?username=justinjdaniel" alt="justinjdaniel" /></a> </p> -->
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 activity 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Justinjdaniel">
@@ -145,16 +110,16 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 <a href="https://github.com/Justinjdaniel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&theme=github_dark&hide=html,css" alt="Justin's GitHub Stats" />
   </a>
-<!-- <a href="https://github.com/Justinjdaniel/prediagnosis">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJDaniel&repo=prediagnosis&hide_border=true&show_icons=true&line_height=27&count_private=true&theme=react" alt="Justin's GitHub Stats" /></a> -->
 </p>
 
-<!--
-This is how Badge is done
-  <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
--->
+![𝚐𝚒𝚝𝚑𝚞𝚋 activity 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Justinjdaniel snake gif](https://github.com/justinjdaniel/Justinjdaniel/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+This is how Badge is done
+  <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
+-->
