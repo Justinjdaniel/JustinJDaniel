@@ -53,31 +53,33 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<!-- <img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?&style=for-the-badge&logo=Astro&logoColor=white"/> -->
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<!-- <img alt="Astro" src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?&style=for-the-badge&logo=Astro&logoColor=white"/> -->
 <img alt="ExpressJs" src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-<!-- <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
-<!-- <a href="https://github.com/Justinjdaniel" target="_blank"> -->
-<!-- <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> -->
+<a href="https://github.com/Justinjdaniel" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img alt="GitHub Pages" src="https://img.shields.io/badge/github pages%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github Actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  
 <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI%20-%23319795.svg?&style=for-the-badge&logo=Chakra UI&logoColor=white"/>
-<!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
-<!-- <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> -->
-<!-- <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
 <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger%20-%232F3134.svg?&style=for-the-badge&logo=Hyperledger&logoColor=white"/>
-<img alt="GitHub Pages" src="https://img.shields.io/badge/github pages%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Green Sock" src="https://img.shields.io/badge/greensock%20-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=black"/>
+<img alt="PWA" src="https://img.shields.io/badge/PWA-%235A0FC8.svg?&style=for-the-badge&logo=PWA&logoColor=white"/>
+  
 <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON Web Tokens-%23000000.svg?&style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
 <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<!-- <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/> -->
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
 <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <!-- <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly%20-%234700A3.svg?&style=for-the-badge&logo=WebAssembly&logoColor=white"/> -->
-<img alt="PWA" src="https://img.shields.io/badge/PWA-%235A0FC8.svg?&style=for-the-badge&logo=PWA&logoColor=white"/>
-<img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON Web Tokens-%23000000.svg?&style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white"/>
 <!-- <img alt="Framer" src="https://img.shields.io/badge/Framer-%230055FF.svg?&style=for-the-badge&logo=Framer&logoColor=white"/> -->
-<!-- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> -->
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-%23039BE5.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 <!-- <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white"/> -->
 <img alt="Lens" src="https://img.shields.io/badge/Lens%20-%233D90CE.svg?&style=for-the-badge&logo=Lens&logoColor=white"/>
 <!-- <img alt="Codepen.io" src="https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/> -->
