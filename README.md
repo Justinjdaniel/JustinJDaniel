@@ -13,22 +13,20 @@
   <!--   <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
 </h2>
 
-My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking for new ways to enhance my own and others' lives.
+My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my own and others' lives.
 
 - 🔭 I’m currently exploring and working on Blockchain in Sustainability.
 - 🌱 I’m currently learning R3, D3, and more.
-- 🤓 I’m looking for help in AWS Devops, Kubernetes, and more.
+- 🤓 I’m looking for help in AWS DevOps, Kubernetes, and more.
 - 🤔 I’m thinking to learn more about Machine Learning and Data Science.
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
 <h3 align="center">
-📫 Find out more about me and feel free to contact me:
+📫 Connect with me on:
 </h3>
 
-<p align="center">
-<a title="Justinjdaniel555@gmail.com" href="mailto:justinjdaniel555@gmail.com"><img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/17131124/hex" target="_blank"><img alt="Stack Overflow" src ="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> -->
 <!-- <a title="CodePen" alt="CodePen" href="https://codepen.io/justinjdaniel" target="_blank"><img alt="CodePen" src ="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
@@ -118,10 +116,13 @@ My name is **Justin J Daniel**. I work as a Web Developer in Kerala. I enjoy pro
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![Justinjdaniel snake gif](https://github.com/justinjdaniel/Justinjdaniel/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
-This is how Badge is done
+This is how a Badge is done
   <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
 -->
