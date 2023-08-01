@@ -25,7 +25,7 @@ jobs:
       
     # Generates the snake  
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: github-contribution-grid-snake-animation
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -48,9 +48,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
         env:
           # a github token is required to fetch the contribution calendar from github API
