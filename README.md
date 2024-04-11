@@ -1,5 +1,4 @@
-[![Banner](https://user-images.githubusercontent.com/62233773/137176356-ed2a39e4-5cc6-48f5-9fc2-6e957ac01646.png 'Banner')](https://justinjdaniel.com)
-
+[![Banner](./assets/banner.webp 'Banner')](https://justinjdaniel.com)
 
 <p align="center">
   <a href="https://justinjdaniel.com">
