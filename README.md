@@ -26,7 +26,17 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 📫 Connect with me on:
 <br/>
 <br/>
-<a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/justin-j-daniel" target="_blank"><img src="https://img.shields.io/badge/justn j daniel%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align='center'>
+    <a href="https://justinjdaniel.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/justin-j-daniel">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/justinjdaniel">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg" alt="Dev.to" />
+  </a>
+</p>
 </h3>
 
 ## 🛠️ Skills
