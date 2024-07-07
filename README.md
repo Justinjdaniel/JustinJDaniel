@@ -9,15 +9,15 @@
 <h2 align="left">
   Hi, folks!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    <!-- <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
-</h2>
+    <!-- <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" />
+</h2> -->
 
 My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my own and others' lives.
 
-- 🔭 I’m currently exploring and working on Blockchain in Sustainability.
-- 🌱 I’m currently learning R3, D3, and more.
-- 🤓 I’m looking for help in AWS DevOps, Kubernetes, and more.
-- 🤔 I’m thinking of learning more about Machine Learning and Data Science.
+- 🔭 I'm currently exploring and working on Blockchain in Sustainability and Web3 technologies.
+- 🌱 I'm currently learning Go.
+- 🤓 I'm looking for help in AWS DevOps, Kubernetes, and more.
+- 🤔 I'm considering learning more about Machine Learning and Data Science.
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
@@ -44,7 +44,7 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 <p align="center">
 <img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown&perline=7"/>
 <br/>
-<img alt="Framework" src="https://skillicons.dev/icons?i=react,next,express,mongodb,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,jest,sass,figma,unity,svg,blender,photoshop,vite&perline=8"/>
+<img alt="Framework" src="https://skillicons.dev/icons?i=react,next,express,mongodb,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,sass,figma,unity,svg,blender,photoshop&perline=8"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
