@@ -9,8 +9,8 @@
 <h2 align="left">
   Hi, folks!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    <!-- <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" />
-</h2> -->
+    <!-- <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
+</h2>
 
 My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my own and others' lives.
 
