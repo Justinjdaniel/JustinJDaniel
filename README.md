@@ -1,26 +1,37 @@
-[![Banner](./assets/banner.webp 'Banner')](https://justinjdaniel.com)
+[![Justin J Daniel's Banner](./assets/banner.webp 'Justin J Daniel's Banner')](https://justinjdaniel.com)
 
 <p align="center">
   <a href="https://justinjdaniel.com">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+      <img src="./assets/typing-svg.svg" alt="Typing SVG">
   </a>
-</p>
+  </p>
 
-<h2 align="left">
-  Hi, folks!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    <!-- <img src="https://komarev.com/ghpvc/?username=Justinjdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="JustinJDaniel" /> -->
+  <h2 align="left">
+    Hi, folks!
+    <img src="./assets/wave.webp" width="28">
 </h2>
 
-My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my own and others' lives.
+My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my life and the lives of others.
 
-- 🔭 I'm currently exploring and working on Blockchain in Sustainability and Web3 technologies.
-- 🌱 I'm currently learning Go.
-- 🤓 I'm looking for help in AWS DevOps, Kubernetes, and more.
-- 🤔 I'm considering learning more about Machine Learning and Data Science.
-  <!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
+### 🚀 What I'm up to:
+
+- 🔭 Building sustainable solutions with Blockchain and Web3 technologies
+- 🌱 Expanding my expertise with Go programming
+- 🛠️ Deepening knowledge in Cloud Architecture, focusing on:
+  - AWS DevOps practices
+  - Kubernetes orchestration
+  - Advanced CI/CD pipelines
+  - Infrastructure automation
+- 🤖 Exploring the realms of Machine Learning and Data Science
+- 💡 Always open to collaborating on innovative projects
+
+### 🎯 Future Plans:
+
+- 📝 Sharing technical insights through articles and tutorials
+- 🤝 Contributing to open-source communities
+- 🚀 Showcasing innovative project developments
+- 🎤 Participating in tech conferences and meetups
+- 📚 Creating educational content for developers
 
 <h3 align="center">
 📫 Connect with me on:
@@ -28,13 +39,13 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 <br/>
 <p align='center'>
     <a href="https://justinjdaniel.com">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Website" />
+    <img src="./assets/portfolio-badge.svg" alt="Justin J Daniel's Portfolio" />
   </a>
   <a href="https://linkedin.com/in/justin-j-daniel">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/justinjdaniel">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg" alt="Dev.to" />
+    <img src="./assets/linkedin-badge.svg" alt="Justin J Daniel's LinkedIn" />
+    </a>
+    <a href="https://dev.to/justinjdaniel">
+    <img src="./assets/devto-badge.svg" alt="Justin J Daniel's Dev.to" />
   </a>
 </p>
 </h3>
@@ -42,19 +53,19 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 ## 🛠️ Skills
 
 <p align="center">
-<img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown&perline=7"/>
+<img alt="Programming Languages" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown&perline=7"/>
 <br/>
-<img alt="Framework" src="https://skillicons.dev/icons?i=react,next,express,mongodb,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,sass,figma,unity,svg,blender,photoshop&perline=8"/>
+<img alt="Frameworks and Tools" src="https://skillicons.dev/icons?i=react,next,express,mongodb,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,sass,figma,unity,svg,blender,photoshop&perline=8"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Justinjdaniel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&hide_border=true&line_height=27&count_private=true&include_all_commits=true&theme=github_dark" alt="Justin's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinJDaniel&show_icons=true&hide_border=true&line_height=27&count_private=true&include_all_commits=true&theme=github_dark" alt="Justin J Daniel's GitHub Stats" />
   </a>
 <a href="https://github.com/Justinjdaniel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&theme=github_dark&hide=html,css,ejs&exclude_repo=learn-AR" alt="Justin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJDaniel&layout=compact&hide_border=true&theme=github_dark&hide=html,css,ejs&exclude_repo=learn-AR" alt="Justin J Daniel's Top Languages" />
   </a>
 </p>
 
@@ -65,10 +76,5 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Justinjdaniel/JustinJDaniel/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-This is how a Badge is done
-  <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
--->
