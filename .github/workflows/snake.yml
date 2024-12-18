@@ -4,10 +4,10 @@ name: Generate Snake Animation
 # Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+    # every 6 hours
+    - cron: '0 */6 * * *'
 
-# This command allows us to run the Action automatically from the Actions tab.
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
@@ -19,23 +19,21 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-      
-    # Generates the snake  
+      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Generates the snake
       - uses: Platane/snk@v3
         id: github-contribution-grid-snake-animation
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-#           github_user_name: Justinjdaniel
 
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-#           gif_out_path: dist/github-contribution-grid-snake.gif
-#           svg_out_path: dist/github-contribution-grid-snake.svg
-                    
+          #           gif_out_path: dist/github-contribution-grid-snake.gif
+          #           svg_out_path: dist/github-contribution-grid-snake.svg
+
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
@@ -49,25 +47,24 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
         env:
           # a github token is required to fetch the contribution calendar from github API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
+
+      # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
-          
+
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page  
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           # the output branch we mentioned above
           target_branch: output
