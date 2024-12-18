@@ -1,4 +1,4 @@
-[![Justin J Daniel's Banner](./assets/banner.webp 'Justin J Daniel's Banner')](https://justinjdaniel.com)
+[![Justin J Daniel's Banner](./assets/banner.webp)](https://justinjdaniel.com)
 
 <p align="center">
   <a href="https://justinjdaniel.com">
