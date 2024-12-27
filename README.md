@@ -16,14 +16,14 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 ## 🚀 What I'm up to:
 
 - 🔭 Building sustainable solutions with Blockchain and Web3 technologies
-- 🌱 Expanding my expertise with Go programming
+- 🌱 Expanding expertise in Blockchain and Full Stack Development
 - 🛠️ Learning Network Administration, focusing on:
   - Network protocols and security
   - System administration
   - Network monitoring tools
   - Infrastructure management
 - 🎯 Planning to master Go programming language
-- 💡 Always open to collaborating on innovative projects
+- 💡 Open to innovative project collaborations
 
 ## 🎯 Future Plans:
 
