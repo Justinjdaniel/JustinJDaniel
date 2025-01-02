@@ -69,7 +69,7 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
   </a>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 activity 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustinJDaniel&theme=react-dark&hide_border=true&area=true)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
