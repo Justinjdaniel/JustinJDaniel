@@ -15,17 +15,23 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 
 ## 🚀 What I'm up to:
 
-- 🔭 Building sustainable solutions with Blockchain and Web3 technologies
-- 🌱 Expanding expertise in Blockchain and Full Stack Development
-- 🛠️ Learning Network Administration, focusing on:
-  - Network protocols and security
-  - System administration
-  - Network monitoring tools
-  - Infrastructure management
-- 🎯 Planning to master Go programming language
-- 💡 Open to innovative project collaborations
+- 🔭 Developing decentralized applications with Blockchain and Web3 technologies
+- 🌱 Advancing skills in Smart Contract Development and Full Stack Development
+- 🛠️ Deep diving into SQL and Database Management:
+  - Query optimization and performance tuning
+  - Database design and architecture
+  - Data modeling and normalization
+  - Transaction management
+- 🔗 Working on Blockchain Network Management:
+  - Node operations and consensus mechanisms
+  - Network security and scalability
+  - Cross-chain integrations
+  - Smart contract deployment and monitoring
+- 🎯 Planning to explore Go programming language
+- 🔍 Looking forward to diving into DeFi protocols
+- 👥 Open to innovative project collaborations
 
-## 🎯 Future Plans:
+## 🎯 Future Goals:
 
 - 📝 Sharing technical insights through articles and tutorials
 - 🤝 Contributing to open-source communities
