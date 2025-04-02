@@ -17,11 +17,11 @@ My name is **Justin J Daniel**. I enjoy programming, coding, and learning about 
 
 - 🔭 Developing decentralized applications with Blockchain and Web3 technologies
 - 🌱 Advancing skills in Smart Contract Development and Full Stack Development
-- 🛠️ Deep diving into SQL and Database Management:
+- 🛠️ Deep diving into GraphQL and API Management:
   - Query optimization and performance tuning
-  - Database design and architecture
-  - Data modeling and normalization
-  - Transaction management
+  - Schema design and architecture
+  - Type modeling and relationships
+  - Query resolution and caching
 - 🔗 Working on Blockchain Network Management:
   - Node operations and consensus mechanisms
   - Network security and scalability
