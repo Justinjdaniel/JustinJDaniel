@@ -11,57 +11,59 @@
     <img src="./assets/wave.webp" width="28" alt="Waving hand">
 </h2>
 
-My name is **Justin J Daniel**. I enjoy programming, coding, and learning about Open Source, Blockchain, and new technologies. I'm a voracious reader who is always seeking new ways to enhance my life and the lives of others.
+My name is **Justin J Daniel**. Passionate Full Stack, Blockchain, & Data Analytics developer committed to Open Source. Lifelong learner applying diverse skills for impactful solutions & community contribution.
 
-## 🚀 What I'm up to:
+## 🚀 What I'm Currently Working On:
 
-- 🔭 Developing decentralized applications with Blockchain and Web3 technologies
-- 🌱 Advancing skills in Smart Contract Development and Full Stack Development
-- 🛠️ Deep diving into GraphQL and API Management:
-  - Query optimization and performance tuning
-  - Schema design and architecture
-  - Type modeling and relationships
-  - Query resolution and caching
-- 🔗 Working on Blockchain Network Management:
-  - Node operations and consensus mechanisms
-  - Network security and scalability
-  - Cross-chain integrations
-  - Smart contract deployment and monitoring
-- 🎯 Planning to explore Go programming language
-- 🔍 Looking forward to diving into DeFi protocols
-- 👥 Open to innovative project collaborations
+- 🔭 Building dApps with Blockchain & Web3.
+- 🌱 Advancing Smart Contract & Full Stack Development skills.
+- 📊 Learning Data Analytics (Python stack, visualization tools) for data-driven insights.
+- ✍️ Sharing insights on Full Stack, Web3, & Data Analytics via articles on my [personal website](https://justinjdaniel.com) and Dev.to.
+- 🛠️ Refining GraphQL & API Management: focusing on query optimization and schema design.
+- 🔗 Exploring Blockchain Network Management: node operations, consensus, security, and scalability.
+- 🎯 Exploring Go for backend development.
+- 🔍 Researching & experimenting with DeFi protocols.
+- 👥 Seeking collaborations in Web3, Full Stack, or Data Analytics.
 
-## 🎯 Future Goals:
+## 🎯 Future Aspirations:
 
-- 📝 Sharing technical insights through articles and tutorials
-- 🤝 Contributing to open-source communities
-- 🚀 Showcasing innovative project developments
-- 🎤 Participating in tech conferences and meetups
-- 📚 Creating educational content for developers
+- 📝 Publish monthly articles on Web3, GraphQL, & Data Analytics on Dev.to.
+- 🤝 Actively contribute to open-source projects in DeFi, Blockchain, or Data Science.
+- 🚀 Launch 2+ personal projects this year using Solidity, Next.js, GraphQL, or Data Analytics.
+- 📊 Use Data Analytics for insights in Full Stack & Web3 projects.
+- 🔗 Pioneer projects merging Blockchain & Data Analytics (e.g., on-chain analysis, predictive models).
+- 🎤 Network at 2-3 Web3/Data Science conferences & present at meetups.
+- 📚 Create video tutorials on smart contract security or Data Analytics basics.
 
-<h3 align="center">
-📫 Connect with me on:
-<br/>
-<br/>
+### 🌱 Continuous Learning:
+
+- 💡 Mastering advanced Go for high-performance backend & blockchain apps.
+- 🛡️ Exploring advanced ZK-proofs for Web3 privacy & scalability.
+- 📈 Gaining proficiency in Tableau & Power BI for data visualization.
+- 🧠 Completing a Machine Learning specialization (predictive analytics, model deployment).
+- 📜 Achieving CKAD certification for enhanced DevOps in decentralized infrastructure.
+
+<h3 align="center">📫 Connect With Me</h3>
 <p align='center'>
-    <a href="https://justinjdaniel.com">
+  <a href="https://justinjdaniel.com">
     <img src="./assets/portfolio-badge.svg" alt="Link to Justin J Daniel's Portfolio Website" />
   </a>
   <a href="https://linkedin.com/in/justin-j-daniel">
     <img src="./assets/linkedin-badge.svg" alt="LinkedIn profile of Justin J Daniel" />
-    </a>
-    <a href="https://dev.to/justinjdaniel">
+  </a>
+  <a href="https://dev.to/justinjdaniel">
     <img src="./assets/devto-badge.svg" alt="Link to Justin J Daniel's Dev.to Profile" />
   </a>
 </p>
-</h3>
 
 ## 🛠️ Skills
 
 <p align="center">
-<img alt="Programming Languages: JavaScript, TypeScript, HTML, CSS, Node.js, Solidity, Markdown" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown&perline=7"/>
+<img alt="Programming Languages & Data Tools: JavaScript, TypeScript, HTML, CSS, Node.js, Solidity, Markdown, Python" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown,python&perline=8"/>
 <br/>
-<img alt="Icons of various frameworks and tools including React, Next.js, Express, MongoDB, Git, GitHub, GitHub Actions, Tailwind, Vercel, AWS, Azure, Netlify, Docker, Kubernetes, Postman, IPFS, Vitest, Vite, Sass, Figma, Unity, SVG, Blender, and Photoshop" src="https://skillicons.dev/icons?i=react,next,express,mongodb,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,sass,figma,unity,svg,blender,photoshop&perline=8"/>
+<img alt="Frameworks & Tools: React, Next.js, Express, MongoDB,  MySQL, R, Git, GitHub, GitHub Actions, Tailwind, Vercel, AWS, Azure, Netlify, Docker, Kubernetes, Postman, IPFS, Vitest, Vite, Figma, Unity, SVG, Photoshop" src="https://skillicons.dev/icons?i=react,next,express,mongodb,mysql,r,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,figma,unity,svg,photoshop&perline=8"/>
+<br/>
+<em>Additionally proficient with Data Visualization tools like Tableau and Power BI.</em>
 </p>
 
 ## &#x1f4c8; GitHub Stats
