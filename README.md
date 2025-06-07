@@ -20,20 +20,16 @@ My name is **Justin J Daniel**. Passionate Full Stack, Blockchain, & Data Analyt
 - 📊 Learning Data Analytics (Python stack, visualization tools) for data-driven insights.
 - ✍️ Sharing insights on Full Stack, Web3, & Data Analytics via articles on my [personal website](https://justinjdaniel.com) and Dev.to.
 - 🛠️ Refining GraphQL & API Management: focusing on query optimization and schema design.
-- 🔗 Exploring Blockchain Network Management: node operations, consensus, security, and scalability.
-- 🎯 Exploring Go for backend development.
-- 🔍 Researching & experimenting with DeFi protocols.
 - 👥 Seeking collaborations in Web3, Full Stack, or Data Analytics.
 
 ## 🎯 Future Aspirations:
 
 - 📝 Publish monthly articles on Web3, GraphQL, & Data Analytics on Dev.to.
-- 🤝 Actively contribute to open-source projects in DeFi, Blockchain, or Data Science.
-- 🚀 Launch 2+ personal projects this year using Solidity, Next.js, GraphQL, or Data Analytics.
+- 🤝 Actively contribute to open-source projects in Blockchain, or Data Science.
+- 🚀 Launch 2+ personal projects this year using Next.js, GraphQL, or Data Analytics.
 - 📊 Use Data Analytics for insights in Full Stack & Web3 projects.
 - 🔗 Pioneer projects merging Blockchain & Data Analytics (e.g., on-chain analysis, predictive models).
-- 🎤 Network at 2-3 Web3/Data Science conferences & present at meetups.
-- 📚 Create video tutorials on smart contract security or Data Analytics basics.
+- 📚 Create video tutorials on web development or Data Analytics basics.
 
 ### 🌱 Continuous Learning:
 
@@ -41,7 +37,6 @@ My name is **Justin J Daniel**. Passionate Full Stack, Blockchain, & Data Analyt
 - 🛡️ Exploring advanced ZK-proofs for Web3 privacy & scalability.
 - 📈 Gaining proficiency in Tableau & Power BI for data visualization.
 - 🧠 Completing a Machine Learning specialization (predictive analytics, model deployment).
-- 📜 Achieving CKAD certification for enhanced DevOps in decentralized infrastructure.
 
 <h3 align="center">📫 Connect With Me</h3>
 <p align='center'>
@@ -61,7 +56,7 @@ My name is **Justin J Daniel**. Passionate Full Stack, Blockchain, & Data Analyt
 <p align="center">
 <img alt="Programming Languages & Data Tools: JavaScript, TypeScript, HTML, CSS, Node.js, Solidity, Markdown, Python" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,solidity,markdown,python&perline=8"/>
 <br/>
-<img alt="Frameworks & Tools: React, Next.js, Express, MongoDB,  MySQL, R, Git, GitHub, GitHub Actions, Tailwind, Vercel, AWS, Azure, Netlify, Docker, Kubernetes, Postman, IPFS, Vitest, Vite, Figma, Unity, SVG, Photoshop" src="https://skillicons.dev/icons?i=react,next,express,mongodb,mysql,r,git,github,githubactions,tailwind,vercel,aws,azure,netlify,docker,kubernetes,postman,ipfs,vitest,vite,figma,unity,svg,photoshop&perline=8"/>
+<img alt="Frameworks & Tools: React, Next.js, Express, MongoDB,  MySQL, R, Git, GitHub, GitHub Actions, Tailwind, Vercel, AWS, Azure, Netlify, Bash, Docker, Postman, IPFS, Vitest, Vite, Figma, Ubuntu, SVG, Photoshop" src="https://skillicons.dev/icons?i=react,next,express,mongodb,mysql,r,git,github,githubactions,tailwind,vercel,aws,azure,netlify,bash,docker,postman,ipfs,vitest,vite,figma,ubuntu,svg,photoshop&perline=8"/>
 <br/>
 <em>Additionally proficient with Data Visualization tools like Tableau and Power BI.</em>
 </p>
